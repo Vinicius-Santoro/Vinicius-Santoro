@@ -38,8 +38,17 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> 
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> 
-  </a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="45"/> 
+  </a>
+ <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://img.icons8.com/color/50/000000/ms-powerpoint--v1.png" alt="powerpoint" width="45" height="40"/> 
+  </a>
+ <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://img.icons8.com/color/50/000000/microsoft-excel-2019--v1.png" alt="excel" width="40" height="40"/> 
+  </a>
+ <a href="https://git-scm.com/" target="_blank"> 
+   <img src="https://img.icons8.com/color/50/000000/microsoft-word-2019--v2.png" alt="word" width="40" height="40"/> 
+  </a>
 </p>
   <h1></h1>
 <p align= "left">
