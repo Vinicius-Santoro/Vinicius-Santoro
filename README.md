@@ -1,7 +1,7 @@
 <img align="center" src="https://cdn.discordapp.com/attachments/663236440288657443/888306754901921792/ViniciusBackground4.jpg" widht="350"/>
 <h1></h1>
 
- ### _A beginner in the word of programming_
+ ### _A beginner in the world of programming_
 <!--<h2 align="down">A beginner in the world of programming</h2>-->
 <h1></h1>
 
