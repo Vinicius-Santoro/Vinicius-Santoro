@@ -3,7 +3,7 @@
 
 - 🔭 I’m studying software engineer at École 42 - São Paulo unit
 - 🌱 I’m learning C language and Shell
-- 📫 I’m currently looking for a job
+- 📫 I’m looking for a job
 - ⚡ Feel free to call me :)
 <!--<img src="https://ardas-it.com/uploads/images/blogs/giph.gif" min-width="160px" max-width="300px" width="160px" align="right"> -->
 
