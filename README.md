@@ -1,8 +1,8 @@
 <h1 align="left">Hi 👋, I'm Vinicius <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="left">A beginner in the world of programming</h3>
 
-- 🔭 I’m currently studying software engineer at École 42 - São Paulo unit
-- 🌱 I’m currently learning C language and Shell
+- 🔭 I’m studying software engineer at École 42 - São Paulo unit
+- 🌱 I’m learning C language and Shell
 - 📫 I’m currently looking for a job
 - ⚡ Feel free to call me :)
 <!--<img src="https://ardas-it.com/uploads/images/blogs/giph.gif" min-width="160px" max-width="300px" width="160px" align="right"> -->
