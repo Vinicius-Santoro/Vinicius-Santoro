@@ -1,5 +1,7 @@
-<h1 align="left">Hello, I'm Vinicius 👋
-<h2 align="left">A beginner in the world of programming</h2>
+<img align="center" src="https://cdn.discordapp.com/attachments/663236440288657443/888306754901921792/ViniciusBackground4.jpg" widht="350"/>
+<h1></h1>
+
+<h2 align="down">A beginner in the world of programming</h2>
 
 - 🔭 I’m studying software engineer at École 42 - São Paulo unit.
 - 🌱 I’m learning C language and Shell.
