@@ -7,9 +7,9 @@
 
  ### _About me:_
  
-- 🔭 I’m studying software engineer at École 42 - São Paulo unit.
-- 🌱 I’m learning C language and Shell.
-- 📫 I’m looking for a job.
+- 📚 I’m studying software engineer at École 42 - São Paulo unit.
+- 👨🏽‍💻 I’m learning C language and Shell.
+- ✅ I’m looking for a job.
 - ⚡ Feel free to call me :)
   <img align="right" src="https://github.com/LuanaVieira95/LuanaVieira95/raw/main/computer-illustration.png" widht="350"/>
 <h1></h1>
