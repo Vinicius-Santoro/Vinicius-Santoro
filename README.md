@@ -1,24 +1,29 @@
 <img align="center" src="https://cdn.discordapp.com/attachments/663236440288657443/888306754901921792/ViniciusBackground4.jpg" widht="350"/>
 <h1></h1>
 
-<h2 align="down">A beginner in the world of programming</h2>
+ ### _A beginner in the word of programming_
+<!--<h2 align="down">A beginner in the world of programming</h2>-->
+<h1></h1>
 
+ ### _About me:_
+ 
 - 🔭 I’m studying software engineer at École 42 - São Paulo unit.
 - 🌱 I’m learning C language and Shell.
 - 📫 I’m looking for a job.
 - ⚡ Feel free to call me :)
   <img align="right" src="https://github.com/LuanaVieira95/LuanaVieira95/raw/main/computer-illustration.png" widht="350"/>
 <h1></h1>
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-  
 
+### _Connect with me:_
+  
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusnaziozeno/)
 [![image](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:viniciussantoro@outlook.com)
 </div>
 
 <h1></h1>
-<h3 align="left">Languages and Tools:</h3>
+
+### _Languages and Tools:_
+
 <p align="left"> 
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
