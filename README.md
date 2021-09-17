@@ -5,10 +5,11 @@
 - 🌱 I’m learning C language and Shell.
 - 📫 I’m looking for a job.
 - ⚡ Feel free to call me :)
-  
+  <img align="right" src="https://github.com/LuanaVieira95/LuanaVieira95/raw/main/computer-illustration.png" widht="350"/>
 <h1></h1>
 <h3 align="left">Connect with me:</h3>
 <div align="left">
+  
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusnaziozeno/)
 [![image](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:viniciussantoro@outlook.com)
