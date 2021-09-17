@@ -5,7 +5,7 @@
 - 🌱 I’m learning C language and Shell
 - 📫 I’m looking for a job
 - ⚡ Feel free to call me :)
-<!--<img src="https://ardas-it.com/uploads/images/blogs/giph.gif" min-width="160px" max-width="300px" width="160px" align="right"> -->
+<img src="https://ardas-it.com/uploads/images/blogs/giph.gif" min-width="160px" max-width="300px" width="160px" align="right">
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
