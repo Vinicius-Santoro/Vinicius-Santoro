@@ -6,7 +6,6 @@
 - 📫 I’m looking for a job.
 - ⚡ Feel free to call me :)
   
- <img src="https://cdn.discordapp.com/attachments/663236440288657443/888291927840133130/giphy_2.gif" min-width="10px" max-width="700px" width="300px" align="right">
 <h1></h1>
 <h3 align="left">Connect with me:</h3>
 <div align="left">
@@ -37,6 +36,5 @@
   <h1></h1>
 <p align= "left">
   <img height= "172" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Santoro&theme=chartreuse-dark"/>
-   
-   <img height= "172" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Santoro&theme=chartreuse-dark"/>
+  <img height= "172" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Santoro&theme=chartreuse-dark"/>
 </p>
