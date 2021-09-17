@@ -1,12 +1,15 @@
 <h1 align="left">Hello, I'm Vinicius 👋
-<h3 align="left">A beginner in the world of programming</h3>
+<h2 align="left">A beginner in the world of programming</h2>
 
 - 🔭 I’m studying software engineer at École 42 - São Paulo unit.
 - 🌱 I’m learning C language and Shell.
 - 📫 I’m looking for a job.
 - ⚡ Feel free to call me :)
-<img src="https://ardas-it.com/uploads/images/blogs/giph.gif" min-width="300px" max-width="300px" width="300px" align="right">
-
+<!--
+  <img src="https://ardas-it.com/uploads/images/blogs/giph.gif" min-width="300px" max-width="300px" width="300px" align="right"> 
+-->
+<img src="https://cdn.discordapp.com/attachments/663236440288657443/888281802756739082/giphy.gif" min-width="10px" max-width="700px" width="300px" align="right">
+<h1></h1>
 <h3 align="left">Connect with me:</h3>
 <div align="left">
 
@@ -15,7 +18,7 @@
 [![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511997039653/)
   
 </div>
-
+<h1></h1>
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
@@ -35,9 +38,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> 
   </a> 
 </p>
-
+  <h1></h1>
 <p align= "left">
-  <img height= "170" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Santoro&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Santoro&theme=react&layout=compact" />
+  <img height= "172" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Santoro&theme=chartreuse-dark&include_all_commits=true" />
+  <img height= "172" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Santoro&theme=chartreuse-dark" />
 </p>
-
+  
