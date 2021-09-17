@@ -5,22 +5,18 @@
 - 🌱 I’m learning C language and Shell.
 - 📫 I’m looking for a job.
 - ⚡ Feel free to call me :)
-<!--
-  <img src="https://ardas-it.com/uploads/images/blogs/giph.gif" min-width="300px" max-width="300px" width="300px" align="right"> 
--->
-<img src="https://cdn.discordapp.com/attachments/663236440288657443/888281802756739082/giphy.gif" min-width="10px" max-width="700px" width="300px" align="right">
+  
+ <img src="https://cdn.discordapp.com/attachments/663236440288657443/888291927840133130/giphy_2.gif" min-width="10px" max-width="700px" width="300px" align="right">
 <h1></h1>
 <h3 align="left">Connect with me:</h3>
 <div align="left">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusnaziozeno/)
 [![image](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:viniciussantoro@outlook.com)
-[![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511997039653/)
-  
 </div>
+
 <h1></h1>
 <h3 align="left">Languages and Tools:</h3>
-
 <p align="left"> 
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
@@ -40,7 +36,7 @@
 </p>
   <h1></h1>
 <p align= "left">
-  <img height= "172" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Santoro&theme=chartreuse-dark&include_all_commits=true" />
-  <img height= "172" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Santoro&theme=chartreuse-dark" />
+  <img height= "172" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Santoro&theme=chartreuse-dark"/>
+   
+   <img height= "172" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Santoro&theme=chartreuse-dark"/>
 </p>
-  
