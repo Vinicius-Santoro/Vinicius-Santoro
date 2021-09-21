@@ -50,7 +50,17 @@
    <img src="https://img.icons8.com/color/50/000000/microsoft-word-2019--v2.png" alt="word" width="40" height="40"/> 
   </a>
 </p>
-  <h1></h1>
+ <h1></h1>
+  
+  <p>
+<a href="https://github.com/Vinicius-Santoro">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Santoro&&langs_count=3&theme=tokyonight&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Vinicius-Santoro">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Santoro&show_icons=true&theme=tokyonight&line_height=27" alt="Shubhamdeep's github stats"/>
+</a>
+</p>
   
 <p align= "left">
   <img height= "172" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Santoro&theme=radical"/>
