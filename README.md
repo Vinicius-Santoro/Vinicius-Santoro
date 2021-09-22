@@ -56,7 +56,7 @@
   <a href="https://github.com/Vinicius-Santoro">
   <img height= "172" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Santoro&&langs_count=3&theme=radical"/>
   </a>
-
+ 
   <a href="https://github.com/Vinicius-Santoro">
   <img height= "172" align="left" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Santoro&show_icons=true&theme=radical" alt="Shubhamdeep's github stats"/>
   </a>
