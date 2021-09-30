@@ -1,8 +1,9 @@
 <img align="center" src="https://cdn.discordapp.com/attachments/663236440288657443/888306754901921792/ViniciusBackground4.jpg" widht="350"/>
+
 <h1></h1>
 
  ### _A beginner in the world of programming_
-<!--<h2 align="down">A beginner in the world of programming</h2>-->
+
 <h1></h1>
 
  ### _About me:_
@@ -12,15 +13,13 @@
 - ✅ I’m looking for a job.
 - 🆓 Feel free to call me :)
 
-<!--
-  <img align="right" src="https://github.com/LuanaVieira95/LuanaVieira95/raw/main/computer-illustration.png" widht="350"/>
 <h1></h1>
--->
 
 ### _42 - Projects:_
 
-<img src="https://github.com/Vinicius-Santoro/Projects-Image/1.Libft.png">  <img src="./Image/2.Get_Next_Line.png">
+<img src="https://github.com/Vinicius-Santoro/Projects-Image/blob/main/1.Libft.png">  <img src="https://github.com/Vinicius-Santoro/Projects-Image/blob/main/2.Get_Next_Line.png">
 
+<h1></h1>
 
 ### _Connect with me:_
   
@@ -58,6 +57,7 @@
    <img src="https://img.icons8.com/color/50/000000/microsoft-word-2019--v2.png" alt="word" width="40" height="40"/> 
   </a>
 </p>
+
  <h1></h1>
 
 <p>
