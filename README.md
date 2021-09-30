@@ -11,8 +11,16 @@
 - 👨🏽‍💻 I’m learning C language and Shell.
 - ✅ I’m looking for a job.
 - 🆓 Feel free to call me :)
+
+<!--
   <img align="right" src="https://github.com/LuanaVieira95/LuanaVieira95/raw/main/computer-illustration.png" widht="350"/>
 <h1></h1>
+-->
+
+### _42 - Projects:_
+
+<img src="https://github.com/Vinicius-Santoro/Projects-Image/1.Libft.png">  <img src="./Image/2.Get_Next_Line.png">
+
 
 ### _Connect with me:_
   
