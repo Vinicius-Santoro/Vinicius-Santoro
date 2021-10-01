@@ -15,9 +15,16 @@
 
 <h1></h1>
 
-### _42 - Projects:_
+### _42 - Projects done:_
 
-<img src="https://github.com/Vinicius-Santoro/Projects-Image/blob/main/1.Libft.png">  <img src="https://github.com/Vinicius-Santoro/Projects-Image/blob/main/2.Get_Next_Line.png">
+<div align="left">
+	<a alt="libft" href="https://github.com/Vinicius-Santoro/42-formation-lvl1-1.libft">
+		<img src="https://github.com/Vinicius-Santoro/Projects-Image/blob/main/1.Libft.png">
+	</a>
+	<a alt="get next line" href="https://github.com/Vinicius-Santoro/42-formation-lvl1-2.get_next_line">
+		<img src="https://github.com/Vinicius-Santoro/Projects-Image/blob/main/2.Get_Next_Line.png">
+	</a>
+</div>
 
 <h1></h1>
 
