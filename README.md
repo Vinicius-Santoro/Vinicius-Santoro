@@ -25,7 +25,7 @@
 		<img src="https://github.com/Vinicius-Santoro/Projects-Image/blob/main/2.Get_Next_Line.png">
 	</a>
 	<a alt="printf" href="https://github.com/Vinicius-Santoro/42-formation-lvl1-3.printf">
-		<img src="https://github.com/Vinicius-Santoro/Projects-Image/blob/main/3.printf.png">
+		<img src="https://github.com/Vinicius-Santoro/Projects-Image/blob/main/3.Printf.png">
 	</a>
 </div>
 
