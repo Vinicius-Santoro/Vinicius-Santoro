@@ -10,7 +10,6 @@
  
 - 💻 I’m studying software engineer at school 42 - São Paulo unit.
 - 👨🏽‍💻 I’m learning C language and Shell.
-- ✅ I’m looking for a job.
 - 🆓 Feel free to call me :)
 
 <h1></h1>
