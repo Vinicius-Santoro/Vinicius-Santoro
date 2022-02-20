@@ -33,6 +33,9 @@
 	<a alt="so long" href="https://github.com/Vinicius-Santoro/42-formation-lvl1-5.so-long">
 		<img src="https://github.com/Vinicius-Santoro/Projects-Image/blob/main/5.So_Long.png">
 	</a>
+	<a alt="so long" href="https://github.com/Vinicius-Santoro/42-formation-lvl1-6.pipex">
+		<img src="https://github.com/Vinicius-Santoro/Projects-Image/blob/main/6.Pipex.png">
+	</a>
 	
 </div>
 
