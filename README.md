@@ -36,7 +36,7 @@
 	<a alt="pipex" href="https://github.com/Vinicius-Santoro/42-formation-lvl1-6.pipex">
 		<img src="https://github.com/Vinicius-Santoro/Projects-Image/blob/main/6.Pipex.png">
 	</a>
-	<a alt="push swap" href="https://github.com/Vinicius-Santoro/42-formation-lvl1-6.pipex">
+	<a alt="push swap" href="https://github.com/Vinicius-Santoro/42-formation-lvl2-7.push-swap">
 		<img src="https://github.com/Vinicius-Santoro/Projects-Image/blob/main/7.Push_Swap.png">
 	</a>
 </div>
