@@ -39,6 +39,9 @@
 	<a alt="push swap" href="https://github.com/Vinicius-Santoro/42-formation-lvl2-7.push-swap">
 		<img src="https://github.com/Vinicius-Santoro/Projects-Image/blob/main/7.Push_Swap.png">
 	</a>
+		<a alt="push swap" href="https://github.com/Vinicius-Santoro/42-formation-lvl2-8.minishell">
+		<img src="https://github.com/Vinicius-Santoro/Projects-Image/blob/main/8.minishelle.png">
+	</a>
 </div>
 
 <h1></h1>
