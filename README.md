@@ -2,14 +2,14 @@
 
 <h1></h1>
 
- ### _A beginner in the world of programming_
+ ### _An apprentice in the world of programmingg_
 
 <h1></h1>
 
  ### _About me:_
  
 - 💻 I’m studying software engineer at school 42 - São Paulo unit.
-- 👨🏽‍💻 I’m learning C language and Shell.
+- 👨 I’m studying data science at university Fatec.
 - 🆓 Feel free to call me :)
 
 
