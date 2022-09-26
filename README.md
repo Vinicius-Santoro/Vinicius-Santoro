@@ -2,7 +2,7 @@
 
 <h1></h1>
 
- ### _An apprentice in the world of programmingg_
+ ### _An apprentice in the world of programming_
 
 <h1></h1>
 
