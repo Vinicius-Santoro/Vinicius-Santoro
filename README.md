@@ -44,7 +44,7 @@
 	</a>
 		</a>
 		<a alt="philo" href="https://github.com/Vinicius-Santoro/42-formation-lvl2-9.philosophers">
-		<img src="https://github.com/Vinicius-Santoro/Projects-Image/blob/main/9.philosophersn.png">
+		<img src="https://github.com/Vinicius-Santoro/Projects-Image/blob/main/9.philosophers.png">
 	</a>
 </div>
 
