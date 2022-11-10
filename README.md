@@ -39,12 +39,14 @@
 	<a alt="push swap" href="https://github.com/Vinicius-Santoro/42-formation-lvl2-7.push-swap">
 		<img src="https://github.com/Vinicius-Santoro/Projects-Image/blob/main/7.Push_Swap.png">
 	</a>
-		<a alt="minishell" href="https://github.com/Vinicius-Santoro/42-formation-lvl2-8.minishell">
+	<a alt="minishell" href="https://github.com/Vinicius-Santoro/42-formation-lvl2-8.minishell">
 		<img src="https://github.com/Vinicius-Santoro/Projects-Image/blob/main/8.minishelle.png">
 	</a>
-		</a>
-		<a alt="philo" href="https://github.com/Vinicius-Santoro/42-formation-lvl2-9.philosophers">
+	<a alt="philo" href="https://github.com/Vinicius-Santoro/42-formation-lvl2-9.philosophers">
 		<img src="https://github.com/Vinicius-Santoro/Projects-Image/blob/main/9.philosophers.png">
+	</a>
+	<a alt="net_pratice" href="https://github.com/Vinicius-Santoro/42-formation-lvl2-9.net_pratice">
+		<img src="https://github.com/Vinicius-Santoro/Projects-Image/blob/main/10.net_pratice.png">
 	</a>
 </div>
 
