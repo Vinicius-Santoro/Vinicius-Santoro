@@ -45,7 +45,7 @@
 	<a alt="philo" href="https://github.com/Vinicius-Santoro/42-formation-lvl2-9.philosophers">
 		<img src="https://github.com/Vinicius-Santoro/Projects-Image/blob/main/9.philosophers.png">
 	</a>
-	<a alt="net_pratice" href="https://github.com/Vinicius-Santoro/42-formation-lvl2-10.net_pratice">
+	<a alt="net_pratice" href="https://github.com/Vinicius-Santoro/42-formation-lvl2-10.net_practice">
 		<img src="https://github.com/Vinicius-Santoro/Projects-Image/blob/main/10.netpracticee.png">
 	</a>
 </div>
