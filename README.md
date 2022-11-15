@@ -74,10 +74,11 @@
   </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42"/> 
-  </a><!--
+  </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42"/> 
-  </a>-->
+  </a>
+<!--
  <a href="https://pt.wikipedia.org/wiki/Microsoft_PowerPoint" target="_blank"> 
     <img src="https://img.icons8.com/color/50/000000/ms-powerpoint--v1.png" alt="powerpoint" width="45" height="40"/> 
   </a>
@@ -87,6 +88,7 @@
  <a href="https://pt.wikipedia.org/wiki/Microsoft_Word" target="_blank">
    <img src="https://img.icons8.com/color/50/000000/microsoft-word-2019--v2.png" alt="word" width="40" height="40"/> 
   </a>
+-->
 </p>
 
  <h1></h1>
