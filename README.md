@@ -17,7 +17,7 @@
 
 ### _42 - Projects done:_
 
-<div align="left">
+<div align="center">
 	<a alt="libft" href="https://github.com/Vinicius-Santoro/42-formation-lvl1-1.libft">
 		<img src="https://github.com/Vinicius-Santoro/Projects-Image/blob/main/1.Libft.png">
 	</a>
@@ -30,6 +30,7 @@
 	<a alt="born2beroot" href="https://github.com/Vinicius-Santoro/42-formation-lvl1-4.Born2beroot">
 		<img src="https://github.com/Vinicius-Santoro/Projects-Image/blob/main/4.Born2beroot.png">
 	</a>
+	<br>
 	<a alt="so long" href="https://github.com/Vinicius-Santoro/42-formation-lvl1-5.so-long">
 		<img src="https://github.com/Vinicius-Santoro/Projects-Image/blob/main/5.So_Long.png">
 	</a>
@@ -42,13 +43,14 @@
 	<a alt="minishell" href="https://github.com/Vinicius-Santoro/42-formation-lvl2-8.minishell">
 		<img src="https://github.com/Vinicius-Santoro/Projects-Image/blob/main/8.minishelle.png">
 	</a>
+	<br>
 	<a alt="philo" href="https://github.com/Vinicius-Santoro/42-formation-lvl2-9.philosophers">
 		<img src="https://github.com/Vinicius-Santoro/Projects-Image/blob/main/9.philosophers.png">
 	</a>
 	<a alt="net_pratice" href="https://github.com/Vinicius-Santoro/42-formation-lvl2-10.net_practice">
 		<img src="https://github.com/Vinicius-Santoro/Projects-Image/blob/main/10.netpracticee.png">
 	</a>
-	<a alt="cub3d" href="https://github.com/Vinicius-Santoro/42-formation-lvl2-10.net_practice">
+	<a alt="cub3d" href="https://github.com/Vinicius-Santoro/42-formation-lvl2-11.cub3d">
 		<img src="https://github.com/Vinicius-Santoro/Projects-Image/blob/main/10.cub3dm.png">
 	</a>
 </div>
