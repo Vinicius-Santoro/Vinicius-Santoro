@@ -1,4 +1,4 @@
-<img align="center" src="https://cdn.discordapp.com/attachments/663236440288657443/888306754901921792/ViniciusBackground4.jpg" widht="350"/>
+<img align="center" src="https://media.discordapp.net/attachments/867903997129392129/1079478862716616854/Vinicius.png?width=1050&height=343" widht="350"/>
 
 <h1></h1>
 
