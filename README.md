@@ -56,15 +56,7 @@
 </div>
 
 <h1></h1>
-
-### _Connect with me:_
-  
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusnaziozeno/)
-[![image](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:viniciussantoro@outlook.com)
-</div>
-
-<h1></h1>
-
+<!--
 ### _Languages and Tools:_
 
 <p align="left"> 
@@ -96,14 +88,12 @@
 -->
 </p>
 
- <h1></h1>
-
-<p>
+<p align="center"> 
   <a href="https://github.com/Vinicius-Santoro">
-  <img height= "172" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Santoro&&langs_count=3&theme=radical"/>
+  <img height= "172" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Santoro&&langs_count=3&theme=radical"/>
   </a>
  
   <a href="https://github.com/Vinicius-Santoro">
-  <img height= "172" align="left" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Santoro&show_icons=true&theme=radical" alt="Shubhamdeep's github stats"/>
+  <img height= "172" align="center" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Santoro&show_icons=true&theme=radical" alt="Shubhamdeep's github stats"/>
   </a>
 </p>
