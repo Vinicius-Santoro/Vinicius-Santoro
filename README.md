@@ -86,6 +86,8 @@
    <img src="https://img.icons8.com/color/50/000000/microsoft-word-2019--v2.png" alt="word" width="40" height="40"/> 
   </a>
 -->
+
+ <!--
 </p>
 
 <p align="center"> 
@@ -97,3 +99,4 @@
   <img height= "172" align="center" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Santoro&show_icons=true&theme=radical" alt="Shubhamdeep's github stats"/>
   </a>
 </p>
+-->
