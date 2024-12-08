@@ -10,7 +10,7 @@
  ### _About me_
  
 - 📚 I’m studying data science at university Fatec.
-- 💻 I’m working as a data enginner at Itaú Unibanco.
+- 💻 Currently working as a data enginner at Itaú Unibanco.
 - 🔎 Studying Pyspark, Terraform, AWS Glue, AWS Athena, AWS API Gateway, AWS QuickSight and others.
 
 <h1></h1>
