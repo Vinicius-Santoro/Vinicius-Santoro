@@ -3,20 +3,19 @@
 
 <h1></h1>
 
- ### _An apprentice in the world of programming_
+ ### _An apprentice in the world of data_
 
 <h1></h1>
 
- ### _About me:_
+ ### _About me_
  
-- 💻 I’m studying software engineer at school 42 - São Paulo unit.
-- 👨 I’m studying data science at university Fatec.
-- 🆓 Feel free to call me :)
-
+- 📚 I’m studying data science at university Fatec.
+- 💻 I’m working as a data enginner at Itaú Unibanco.
+- 🔎 Studying Pyspark, Terraform, AWS Glue, AWS Athena, AWS API Gateway, AWS QuickSight and others.
 
 <h1></h1>
 
-### _42 - Projects done:_
+### _42 - Projects done_
 
 <div align="center">
 	<a alt="libft" href="https://github.com/Vinicius-Santoro/42-formation-lvl1-1.libft">
