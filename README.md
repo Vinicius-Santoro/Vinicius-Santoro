@@ -1,21 +1,50 @@
 
 <img align="center" src="https://github.com/Vinicius-Santoro/Project-Images/blob/main/TopImageReadme.jpg">
 
+
+ <p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=FF6200&width=500&height=45&lines=Entusiasta+de+Engenharia+de+Dados;" alt="Typing SVG" /></a>
+</p>
+
 <h1></h1>
 
- ### _An apprentice in the world of data_
-
-<h1></h1>
-
- ### _About me_
+ ### _Sobre mim_
  
-- 📚 I’m studying data science at university Fatec.
-- 💻 Currently working as a data engineer at Itaú Unibanco.
-- 🔎 Studying Pyspark, Terraform, AWS Glue, AWS Athena, AWS API Gateway, AWS QuickSight and others.
+- 💻 2021: Conheci a formação em Engenharia de Software da [École 42](https://42.fr/en/homepage/).
+- 📚 2022: Ingressei no curso de Ciência de Dados na FATEC.
+- 💼 2023: Entrei como estagiário no Itaú Unibanco.
+- 🎯 2024: Fui efetivado como Analista de Dados.
+- 🚀 2025: Descobri meu interesse em unir engenharia de software e dados e estou iniciando minha carreira como Engenheiro de Dados.
+- ✍️ Publiquei dois artigos Itaú Tech:
+	- [A jornada de dados no Itaú Unibanco: modelagem e engenharia de dados e analytics](https://medium.com/itautech/a-jornada-de-dados-no-ita%C3%BA-unibanco-modelagem-e-engenharia-de-dados-e-analytics-6dfd9e5d66cc).
+	- [A jornada de dados no Itaú Unibanco: ciência de dados e engenharia de machine learning](https://medium.com/itautech/a-jornada-de-dados-no-ita%C3%BA-unibanco-ci%C3%AAncia-de-dados-e-engenharia-de-machine-learning-d15311dbf38e).
+- 🎙️ Fui convidado para o podcast Data Hackers! Participei do [episódio #88: Jornada de Engenharia de Dados e Analytics no Itaú](https://medium.com/data-hackers/jornada-de-engenharia-de-dados-e-analytics-no-ita%C3%BA-data-hackers-podcast-88-5518d40f2b38).
+- 🏆 Meu time venceu a [Batalha de Dados do Itaú Unibanco](https://www.linkedin.com/posts/viniciusrio_vencedores-da-batalha-de-dados-do-ita%C3%BA-unibanco-activity-7224895881529974784-CuUD?utm_source=share&utm_medium=member_desktop).
 
 <h1></h1>
 
-### _42 - Projects done_
+### 🖊️ Certificações
+
+Aprender e consolidar conceitos teóricos e técnicos são prioridades na minha trajetória profissional. Aqui estão algumas certificações que representam conquistas relevantes no meu processo de aprendizado contínuo.
+
+<table align="center">
+  <th></th>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/7764db39-41c1-406f-9990-142f474039f4"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner Badge" align="left" width="100px">
+      <a href="https://www.credly.com/badges/01d46d42-a423-4f03-9822-15fb43370f3c"><img src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="AWS Cloud Quest Badge" align="left" width="100px">
+      <a href="https://www.credly.com/badges/a04e928e-bd44-4a5a-a360-7171277c1bf2"><img src="https://images.credly.com/size/340x340/images/21e16d4d-d2df-46e6-9098-526caab49e63/blob" alt="Alteryx Foundational Micro-Credential" align="left" width="100px">
+      <a href="https://www.credly.com/badges/3f63e19c-0d05-4db4-9181-27c249d26380"><img src="https://images.credly.com/size/340x340/images/b2b40aab-61c3-4af9-871c-96afdd274b69/image.png" alt="Lean - Trained" align="left" width="100px">
+      <a href="https://www.credly.com/badges/f5f22779-16c9-4a4d-9d03-1945c4141a90"><img src="https://images.credly.com/size/340x340/images/a7e0490e-d2c5-4b8e-abd4-25d950066bda/image.png" alt="Batalha de Dados" align="left" width="100px">
+      <a href="https://www.credly.com/badges/ccd22161-5bf8-4972-955c-7ded0c4b8b10"><img src="https://images.credly.com/size/340x340/images/3bb81f31-b826-4462-8758-d25d2d43083c/image.png" alt="Generativa AI" align="left" width="100px">
+      <a href="https://www.credly.com/badges/21d61b81-df81-4121-a3bb-c8bba64ddfba"><img src="https://images.credly.com/size/340x340/images/27224c08-f61c-4d82-b929-325f96af326a/image.png" alt="Associate - Data Engineering Badge" align="left" width="100px">
+      <a href="https://www.credly.com/badges/7694915c-24b1-48d0-a65b-cf63914519b8"><img src="https://images.credly.com/size/340x340/images/1ec9c0f8-60f4-4c96-8fc8-2442b9022a12/image.png" alt="Alteryx Foundational Micro-Credential" align="left" width="100px">
+    </td>
+  </tr>
+</table>
+
+### _Projetos da École 42_
 
 <div align="center">
 	<a alt="libft" href="https://github.com/Vinicius-Santoro/42-formation-lvl1-1.libft">
