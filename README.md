@@ -1,13 +1,20 @@
 
 <img align="center" src="https://github.com/Vinicius-Santoro/Project-Images/blob/main/TopImageReadme.jpg">
 
-
  <p align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=FF6200&width=500&height=45&lines=Entusiasta+de+Engenharia+de+Dados;" alt="Typing SVG" /></a>
 </p>
 
- ## Sobre mim
+<p align="left">
+  
+  <a href="https://www.linkedin.com/in/viniciusrio/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&labelColor=003399&color=003399" target="_blank">
+  </a> 
+
+___
+
+ ### Sobre mim
  
 - 💻 2021: Conheci a formação em Engenharia de Software da [École 42](https://42.fr/en/homepage/).
 - 📚 2022: Ingressei no curso de Ciência de Dados na FATEC.
@@ -20,8 +27,9 @@
 - 🎙️ Fui convidado para o podcast Data Hackers! Participei do [episódio #88: Jornada de Engenharia de Dados e Analytics no Itaú](https://medium.com/data-hackers/jornada-de-engenharia-de-dados-e-analytics-no-ita%C3%BA-data-hackers-podcast-88-5518d40f2b38).
 - 🏆 Meu time venceu a [Batalha de Dados do Itaú Unibanco](https://www.linkedin.com/posts/viniciusrio_vencedores-da-batalha-de-dados-do-ita%C3%BA-unibanco-activity-7224895881529974784-CuUD?utm_source=share&utm_medium=member_desktop).
 
+___
 
-## Certificações
+### Certificações
 
 Aprender e consolidar conceitos teóricos e técnicos são prioridades na minha trajetória profissional. Aqui estão algumas certificações que representam conquistas relevantes no meu processo de aprendizado contínuo.
 
@@ -41,7 +49,9 @@ Aprender e consolidar conceitos teóricos e técnicos são prioridades na minha 
   </tr>
 </table>
 
-## Projetos feitos da École 42
+___
+
+### Projetos feitos da École 42
 
 <div align="center">
 	<a alt="libft" href="https://github.com/Vinicius-Santoro/42-formation-lvl1-1.libft">
